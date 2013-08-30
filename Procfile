@@ -1,1 +1,1 @@
-web: ./hello-go -port 
+web: hello-go
